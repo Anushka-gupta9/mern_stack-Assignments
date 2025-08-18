@@ -1,6 +1,8 @@
 ## Create a counter in JavaScript
 setInterval(() => {
+
   console.log("Hello");
+  
 }, 1000);
 
 We have already covered this in the second lesson, but as an easy recap try to code a counter in Javascript
